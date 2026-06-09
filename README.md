@@ -1,4 +1,4 @@
 # first-project
-this is my first repository
-<blr>
+this is my git first repository
+<br>
 Author-chaitanya
